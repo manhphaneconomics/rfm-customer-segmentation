@@ -1,4 +1,4 @@
-# 🎯 Customer Segmentation with RFM Analysis (Python)
+# Customer Segmentation with RFM Analysis (Python)
 
 
 **SuperStore** is a global retail company. Heading into the Christmas/New Year season, the Marketing team wanted to run loyalty campaigns to thank existing customers and identify high-potential customers worth nurturing into loyal buyers. In previous years, with a smaller customer base, segmentation was done manually in Excel — but the dataset had grown too large for that approach.
